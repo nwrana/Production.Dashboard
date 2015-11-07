@@ -8,3 +8,5 @@ To run the dashboard, the following commands must be loaded:
 setwd("./R-Shiny Apps") #assuming your working directory is ("C:/user/Documents")
 library(shiny) #load the shiny package 
 runApp("Production.Dashboard") #name of folder that contains the above 3 files
+
+This is a test to add changes to a .md file, create a new branch, and view this branch on SourceTree
